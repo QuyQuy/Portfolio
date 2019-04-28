@@ -3,7 +3,7 @@
 Project Name: Collis    
 Version:  1.1 
 Created Date: Feb 20, 2018
-Primary use: Personal Portfolio, resume, cv.
+Primary use: Personal portfolio, resume, cv.
 Author Name: Awesome_Theme (https://themeforest.net/user/awesome_theme)
 */
 
@@ -26,7 +26,7 @@ Author Name: Awesome_Theme (https://themeforest.net/user/awesome_theme)
         * About Two CSS
 07. Service CSS
 08. Counter CSS
-09. Portfolio CSS  
+09. portfolio CSS
         * Item Hover CSS  
 10. Testimonial CSS 
 11. Blog CSS
@@ -836,7 +836,7 @@ input:-moz-placeholder {
 
 
 /*---///---///---///---///---///---///---///---///---///---
-    09. Portfolio CSS
+    09. portfolio CSS
 ---///---///---///---///---///---///---///---///---///---*/
 .portfolio-section.section-default {
     padding: 120px 0 90px;
@@ -1704,4 +1704,9 @@ input:-moz-placeholder {
     margin-bottom: 10px;
     border-bottom: 1px solid #dddddd;
     display: inline-block;
+}
+/*projects css*/
+
+.bookBird {
+
 }
