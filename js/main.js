@@ -101,7 +101,7 @@
 
 
 
-    // Light box - Portfolio Gallery
+    // Light box - portfolio Gallery
     lightbox.option({
       'imageFadeDuration': 800,
       'resizeDuration': 500,
