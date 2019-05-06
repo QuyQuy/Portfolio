@@ -698,7 +698,8 @@ input:-moz-placeholder {
 }
 /* About Two CSS */
 .about-two-section {
-    padding: 100px 0; 
+    padding: 100px 0;
+    background-color: #080808;
 }
 .about-two-section .about-col img {
     border: 3px solid #cccccc;
@@ -735,6 +736,7 @@ input:-moz-placeholder {
 }
 .service-section.section-default {
     padding: 120px 0 40px;
+    background-color: #000000;
 }
 .service-section .default-title {
     margin-bottom: 100px;
@@ -839,6 +841,7 @@ input:-moz-placeholder {
 ---///---///---///---///---///---///---///---///---///---*/
 .portfolio-section.section-default {
     padding: 120px 0 90px;
+    background-color: #101010;;
 }
 .portfolio-nav {
     float: none;
@@ -1429,7 +1432,7 @@ input:-moz-placeholder {
     overflow: hidden;
 }
 .contact-sec.section-default {
-    
+    background-color: #080808;
 }
 .contact-title {
     position: relative;
@@ -1708,4 +1711,14 @@ input:-moz-placeholder {
 
 .bookBird {
 
+
+}
+.testing {
+    color: white;
+}
+.projectInfo {
+    color: white;
+}
+#student_grade_table{
+    margin-left: 11%;
 }
