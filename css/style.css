@@ -93,6 +93,7 @@ a {
 }
 a:focus,
 a:hover {
+    color: grey;
     text-decoration: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -170,7 +171,7 @@ input:-moz-placeholder {
     position: relative;
 }
 .col-default {
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 
 /* Btn CSS */
@@ -1445,6 +1446,7 @@ input:-moz-placeholder {
     text-transform: capitalize;
     font-weight: 800;
     position: relative;
+    color: white;
 }
 /*.contact-title h2:after {
     content: "";
@@ -1717,8 +1719,33 @@ input:-moz-placeholder {
     color: white;
 }
 .projectInfo {
-    color: white;
+    color: grey;
 }
 #student_grade_table{
     margin-left: 11%;
+}
+a{
+    color: white;
+    font-weight: 900;
+}
+.testing {
+    color: white;
+    font-weight: bolder;
+}
+
+.aboutMePicture {
+    position: relative;
+    top: 67px;
+}
+#linkedin {
+    color: white;
+    background-color: #0077B5;
+}
+#phone{
+    color: white;
+    background-color: #96C346;
+}
+#mail {
+    color: red;
+    background-color: steelblue;
 }
