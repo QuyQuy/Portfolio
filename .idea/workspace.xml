@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="516ee72a-949a-4a71-952b-c16e7c7afa9b" name="Default Changelist" comment="" />
+    <list default="true" id="516ee72a-949a-4a71-952b-c16e7c7afa9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +52,14 @@
     <session id="-1765341865">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.2" value="5" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,14 +82,14 @@
         <counts>
           <entry key="css" value="323" />
           <entry key="gitignore" value="19" />
-          <entry key="html" value="924" />
+          <entry key="html" value="945" />
           <entry key="php" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="323" />
-          <entry key="HTML" value="924" />
+          <entry key="HTML" value="945" />
           <entry key="PHP" value="21" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
@@ -97,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="636" column="22" lean-forward="true" selection-start-line="636" selection-start-column="22" selection-end-line="636" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="294" column="30" selection-start-line="294" selection-start-column="30" selection-end-line="294" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -106,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
+            <state relative-caret-position="26265">
               <caret line="1751" column="1" selection-start-line="1751" selection-start-column="1" selection-end-line="1751" selection-end-column="1" />
             </state>
           </provider>
@@ -187,10 +191,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1596" />
-    <option name="y" value="253" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="729" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -292,16 +295,18 @@
       <workItem from="1557620758620" duration="2057000" />
       <workItem from="1557820226564" duration="241000" />
       <workItem from="1557872230268" duration="278000" />
+      <workItem from="1558468067266" duration="242000" />
+      <workItem from="1558680638229" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33855000" />
+    <option name="totallyTimeSpent" value="34224000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1596" y="253" width="1280" height="729" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="727" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25201938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26009694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -314,7 +319,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3155416" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27401575" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -424,24 +429,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="300">
+          <caret line="294" column="30" selection-start-line="294" selection-start-column="30" selection-end-line="294" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="26265">
           <caret line="1751" column="1" selection-start-line="1751" selection-start-column="1" selection-end-line="1751" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="636" column="22" lean-forward="true" selection-start-line="636" selection-start-column="22" selection-end-line="636" selection-end-column="22" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
