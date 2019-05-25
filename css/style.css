@@ -1734,9 +1734,8 @@ a{
 }
 
 .aboutMePicture {
-    position: absolute;
-    top: 98%;
-    right: 6%;
+    position: relative;
+    margin-top: 15%;
 }
 #linkedin {
     color: white;
