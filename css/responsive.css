@@ -98,6 +98,20 @@
 	
 }
 
+@media only screen and (max-width: 420px) {
+	.filtr-item {
+		width: 100%;
+	}
+	.studentContainer {
+		padding-top: 18%
+	}
+
+	.memoryContainer{
+		padding-top: 18%
+	}
+
+}
+
 
 @media only screen and (max-width:480px) {
 	.hover-box h3 {
@@ -162,6 +176,18 @@
 	.welcome-col .cd-headline {
 		font-size: 14px;
 	}
+}
+@media only screen and (max-width: 380px){
+	.studentContainer {
+		padding-top: 18%
+	}
+	.filtr-item {
+		width: 100%;
+	}
+	.memoryContainer{
+		padding-top: 18%
+	}
+
 }
 @media only screen and (max-width:375px) {
 	.about-col .btn-black {
