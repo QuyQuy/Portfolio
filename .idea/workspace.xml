@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="516ee72a-949a-4a71-952b-c16e7c7afa9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon/wordpress.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon/wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/projects/bookbird.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/projects/bookbird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,44 +58,48 @@
     <session id="-1765341865">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.2" value="8" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="7" />
+          <entry key="css" value="8" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="2" />
           <entry key="php" value="4" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="7" />
+          <entry key="CSS" value="8" />
           <entry key="HTML" value="2" />
+          <entry key="Image" value="4" />
           <entry key="PHP" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="323" />
+          <entry key="css" value="402" />
           <entry key="gitignore" value="19" />
-          <entry key="html" value="945" />
+          <entry key="html" value="1003" />
           <entry key="php" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="323" />
-          <entry key="HTML" value="945" />
+          <entry key="CSS" value="402" />
+          <entry key="HTML" value="1003" />
           <entry key="PHP" value="21" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
@@ -98,20 +108,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="294" column="30" selection-start-line="294" selection-start-column="30" selection-end-line="294" selection-end-column="30" />
+            <state relative-caret-position="415">
+              <caret line="221" column="66" selection-start-line="221" selection-start-column="66" selection-end-line="221" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/about_me.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/welcome_background.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26265">
-              <caret line="1751" column="1" selection-start-line="1751" selection-start-column="1" selection-end-line="1751" selection-end-column="1" />
+            <state relative-caret-position="376">
+              <caret line="1760" selection-start-line="1760" selection-end-line="1760" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -129,8 +158,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>welcome</find>
-      <find>ripple</find>
       <find>por</find>
       <find>My proj</find>
       <find>My</find>
@@ -159,6 +186,8 @@
       <find>Skills</find>
       <find>Rea</find>
       <find>.info</find>
+      <find>filter-item</find>
+      <find>media</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -175,9 +204,10 @@
       <list>
         <option value="$PROJECT_DIR$/php/contact.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
       </list>
     </option>
   </component>
@@ -190,8 +220,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="173" />
+    <option name="y" value="416" />
     <option name="width" value="1280" />
     <option name="height" value="727" />
   </component>
@@ -297,16 +328,20 @@
       <workItem from="1557872230268" duration="278000" />
       <workItem from="1558468067266" duration="242000" />
       <workItem from="1558680638229" duration="127000" />
+      <workItem from="1558851270647" duration="212000" />
+      <workItem from="1558851529539" duration="141000" />
+      <workItem from="1560140067391" duration="2732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34224000" />
+    <option name="totallyTimeSpent" value="37309000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="727" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26009694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27221325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,7 +354,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27401575" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23835616" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,9 +425,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/projects/bookbird.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/projects/bookbird.png" />
     <entry file="file:///Applications/MAMP_2018-12-06_10-01-59/bin/phpMyAdmin/libraries/classes/Sql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8573" />
@@ -429,24 +462,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="294" column="30" selection-start-line="294" selection-start-column="30" selection-end-line="294" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26265">
-          <caret line="1751" column="1" selection-start-line="1751" selection-start-column="1" selection-end-line="1751" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/images/icon/wordpress.png" />
+    <entry file="file://$PROJECT_DIR$/images/icon/wordpress.jpeg" />
+    <entry file="file://$PROJECT_DIR$/images/about_me.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/welcome_background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="221" column="66" selection-start-line="221" selection-start-column="66" selection-end-line="221" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="1760" selection-start-line="1760" selection-end-line="1760" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
         </state>
       </provider>
     </entry>
